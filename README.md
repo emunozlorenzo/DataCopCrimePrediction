@@ -68,6 +68,18 @@ You may also want to set a default region. This can be done in the configuration
 region = eu-west-1
 ```
 
+After this, one of these files must be run:
+
+```sh
+./src/data/dataAdquisitionAWS.py
+```
+
+or 
+
+```sh
+./data/01_Data_Adquisition_AWS_S3.ipynb
+```
+
 ## Dashboard
 The Dashboard has been developed using Tableau
 Link: [Tableau Public Dashboard](https://public.tableau.com/views/DataCop_TFM_EML/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
