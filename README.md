@@ -19,7 +19,7 @@ This allows us to manage and optimise public services and infrastructures.
 
 The main goals of this project are:
 
-- Crime analysis by districts
+- Crime analysis by districts in the city of __Philadelphia__
 - 12 months Crime Forecast by districts using diffent time series models
 
 ## Repository Structure
@@ -39,10 +39,15 @@ From Philadelphia Open Data Portal: https://www.opendataphilly.org/dataset/crime
 
 #### Data Preprocsessing
 
+From Raw Data to Monthly Data
+
 #### Analysis
+
+Data Analysis by Districts, Type of Crime and Date
 
 #### Time Series Forecasting
 
+Using SARIMA, Facebook Prophet and Keras LSTM Neuronal Network
 
 ## Requeriments and Data Adquisition
 
