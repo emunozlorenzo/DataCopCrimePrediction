@@ -79,6 +79,7 @@ or
 ```sh
 ./data/01_Data_Adquisition_AWS_S3.ipynb
 ```
+Then, you are ready to run all the notebooks ```./notebooks/```
 
 ## Dashboard
 The Dashboard has been developed using Tableau
