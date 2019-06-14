@@ -33,9 +33,40 @@ The main goals of this project are:
 
 ## Methodology
 
+#### Data Adquisition
 
-## Requeriments
+#### Data Preprocsessing
 
+#### Analysis
+
+#### Time Series Forecasting
+
+
+## Requeriments and Data Adquisition
+
+#### Install Requirements
+
+```
+pip3 install -r requirements.txt
+```
+
+#### Data Adquisition
+
+Before you can begin using Boto 3, you should set up authentication credentials. Credentials for your AWS account can be found in the IAM Console
+
+create the credential file yourself. By default, its location is at ```~/.aws/credentials```:
+
+```sh
+[default]
+aws_access_key_id = YOUR_ACCESS_KEY
+aws_secret_access_key = YOUR_SECRET_KEY
+```
+You may also want to set a default region. This can be done in the configuration file. By default, its location is at ```~/.aws/config```:
+
+```sh
+[default]
+region = eu-west-1
+```
 
 ## Dashboard
 The Dashboard has been developed using Tableau
