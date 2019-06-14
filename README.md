@@ -35,6 +35,8 @@ The main goals of this project are:
 
 #### Data Adquisition
 
+From Philadelphia Open Data Portal: https://www.opendataphilly.org/dataset/crime-incidents
+
 #### Data Preprocsessing
 
 #### Analysis
