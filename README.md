@@ -4,6 +4,7 @@
 
 # DataCop: A Crime Forecasting Tool
 
+
 Master's Thesis Project
 
 ![alt text](https://github.com/emunozlorenzo/MasterDataScience/blob/master/img/icon2.png "Logo Title Text 1") [Eduardo Muñoz](https://www.linkedin.com/in/eduardo-mu%C3%B1oz-lorenzo-14144a144/)
@@ -26,6 +27,7 @@ The main goals of this project are:
 - __notebooks__ Jupyter Notebooks: Data preprocessing and time series models
 - __src__ Source code related to data adquisition and data preprocessing
 - __dashboard__ Tableau file where the results are shown
+- __img__ Images
 
 ## Methodology
 
@@ -34,6 +36,21 @@ The main goals of this project are:
 
 
 ## Dashboard
+The Dashboard has been developed using Tableau
+Link: [Tableau Public Dashboard](https://public.tableau.com/views/DataCop_TFM_EML/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 
+```
+Forecast
+```
 
+<p align="center"> 
+<img src="https://github.com/emunozlorenzo/DataCopCrimePrediction/blob/master/img/dataCopGreen.JPG">
+</p>
 
+```
+Analysis
+```
+
+<p align="center"> 
+<img src="https://github.com/emunozlorenzo/DataCopCrimePrediction/blob/master/img/dataCopBlue.JPG">
+</p>
