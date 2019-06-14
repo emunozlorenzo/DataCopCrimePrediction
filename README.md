@@ -56,3 +56,9 @@ Analysis
 <p align="center"> 
 <img src="https://github.com/emunozlorenzo/DataCopCrimePrediction/blob/master/img/dataCopBlue.JPG">
 </p>
+
+
+```
+User Interface
+```
+![Playgrounds](https://github.com/emunozlorenzo/DataCopCrimePrediction/blob/master/img/dataCop.gif)
