@@ -151,7 +151,7 @@ python-slugify==3.0.2
 pytorch-pretrained-bert==0.6.1
 pytz==2019.1
 pyxdg==0.25
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.4.3
 regex==2019.4.12
