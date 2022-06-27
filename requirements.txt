@@ -155,7 +155,7 @@ PyYAML==5.1
 pyzmq==18.0.1
 qtconsole==4.4.3
 regex==2019.4.12
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.22.0
 requests-unixsocket==0.1.5
 s3fs==0.2.1
