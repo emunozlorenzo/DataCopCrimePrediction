@@ -101,7 +101,7 @@ mock==3.0.4
 mpld3==0.3
 munch==2.3.2
 murmurhash==1.0.2
-nbconvert==5.4.1
+nbconvert==6.3.0
 nbformat==4.4.0
 netifaces==0.10.4
 networkx==2.3
