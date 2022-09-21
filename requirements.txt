@@ -77,7 +77,7 @@ jupyter-core==4.4.0
 jupyter-spark==0.4.0
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
-jwcrypto==0.6.0
+jwcrypto==1.4
 kaggle==1.5.3
 Keras==2.2.4
 Keras-Applications==1.0.7
